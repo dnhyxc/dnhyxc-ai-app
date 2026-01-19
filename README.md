@@ -459,3 +459,7 @@ pnpm check --no-apply
 - [TypeScript](https://www.typescriptlang.org/) - 类型安全的 JavaScript
 - [Radix UI](https://www.radix-ui.com/) - 可访问的 UI 组件
 - [Tailwind CSS](https://tailwindcss.com/) - 实用优先的 CSS 框架
+
+## 📝 License
+
+[MIT](https://github.com/tauri-apps/tauri/blob/dev/LICENSE)
